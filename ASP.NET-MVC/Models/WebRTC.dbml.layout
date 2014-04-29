@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WebRTC">
+  <DataContextMoniker Name="/WebRTCDataContext" />
+  <nestedChildShapes>
+    <classShape Id="410ecaf8-60c8-4876-b6ce-42f90ff00ded" absoluteBounds="3.625, 1.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/WebRTCDataContext/Data" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5187ed24-bbf7-4701-abf8-c0c7d8ce80a1" absoluteBounds="3.64, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
